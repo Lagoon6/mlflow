@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lagoon6/Desktop/workspace/mlflow/mlruns/1/8060b184201749b098385276eaa62ccc/artifacts
+end_time: 1683538564182
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 8060b184201749b098385276eaa62ccc
+run_uuid: 8060b184201749b098385276eaa62ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683538564062
+status: 3
+tags: []
+user_id: lagoon6
